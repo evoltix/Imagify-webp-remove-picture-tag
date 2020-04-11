@@ -2,7 +2,7 @@
 /**
 Plugin Name: Imagify webp remove picture tag
 Plugin URI:  http://link to your plugin homepage
-Description: Describe what your plugin is all about in a few short sentences
+Description: This plugin will prevent imagify plugin to show picture tag while webp is enabled 
 Version:     1.0
 Author:      Avnish Negi
 Author URI:  http://link to your website
